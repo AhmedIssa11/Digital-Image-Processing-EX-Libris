@@ -12,6 +12,8 @@ EX Libiris can be considered as the answer to modern virtual education problems.
 
 -	Head Pose Estimation: detects and alerts if student looks away for more than 10 seconds. 
 
+youtube video : https://www.youtube.com/watch?v=3aIPJ4Cb4H0&feature=youtu.be
+
 
 
 
